@@ -1,6 +1,5 @@
 This is just random text
 <<<<<<< HEAD
+<<<<<<< HEAD
 I have added this line
 I have added another line
-=======
->>>>>>> parent of 0d9a0f5 (Third commit)
